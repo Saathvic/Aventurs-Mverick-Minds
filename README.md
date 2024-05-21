@@ -1,6 +1,3 @@
-# object_distapp
-
-A new Flutter project.
 
 ## Getting Started
 
